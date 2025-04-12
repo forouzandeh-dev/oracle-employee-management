@@ -1,0 +1,15 @@
+
+SELECT
+    EMPLOYEE_ID,
+    FIRST_NAME,
+    LAST_NAME,
+    EMAIL,
+    PHONE_NUMBER,
+    HIRE_DATE,
+    JOB_ID,
+    SALARY,
+    Commission_PCT
+    MANAGER_ID,
+    DEPARTMENT_ID
+FROM
+    EMPLOYEES01;
